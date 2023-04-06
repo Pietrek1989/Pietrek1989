@@ -26,7 +26,7 @@ In my free time, I love tinkering with new technologies and experimenting with d
 And Drop me a message or email at techpietrek@gmail.com!
 
 ### SOCIALS🌍
-[![LinkedIn](https://skillicons.dev/icons?i=LinkedIn)]([https://skillicons.dev](https://www.linkedin.com/in/piotr-rodzen-a60501158/))
+[![LinkedIn](https://skillicons.dev/icons?i=LinkedIn)](https://www.linkedin.com/in/piotr-rodzen-a60501158/))
 
 
 
