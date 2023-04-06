@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Pietrek1989/Pietrek1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there! 👋  I'm Piotr, a junior full stack web developer. With a passion for creating dynamic and engaging web applications, I'm always looking for new challenges and opportunities to improve my skills.
 ![banner](https://user-images.githubusercontent.com/68666992/230426744-6d3a4bc7-7360-468a-8c83-d5cbc9a64800.png)
 
-Hello! I'm Piotr, a junior full stack web developer. With a passion for creating dynamic and engaging web applications, I'm always looking for new challenges and opportunities to improve my skills.
+
 
 I have experience working with a range of programming languages and technologies, including HTML, CSS, JavaScript, React, Node.js, Express JS, Typescript, MongoDB . I enjoy working on both front-end and back-end development and am comfortable collaborating with cross-functional teams to deliver high-quality results.
 
