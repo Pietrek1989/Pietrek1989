@@ -31,6 +31,10 @@ And Drop me a message or email at techpietrek@gmail.com!
 ### SKILLS 
 [![My Skills](https://skillicons.dev/icons?i=css,html,bootstrap,js,ts,react,nodejs,express,redux,postman,mongodb,postgres,xd,ae,ps,pr,discord,bots,github)](https://skillicons.dev)
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,bootstrap,js,ts,react,nodejs,express,redux,postman,mongodb,postgres,xd,ae,ps,pr,discord,bots,github" />
+  </a>
+</p>
 
 
