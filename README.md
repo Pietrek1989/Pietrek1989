@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[Screenshot_1](https://user-images.githubusercontent.com/68666992/230426744-6d3a4bc7-7360-468a-8c83-d5cbc9a64800.png)
+https://user-images.githubusercontent.com/68666992/230426744-6d3a4bc7-7360-468a-8c83-d5cbc9a64800.png
 
 Hello! I'm Piotr, a junior full stack web developer. With a passion for creating dynamic and engaging web applications, I'm always looking for new challenges and opportunities to improve my skills.
 
