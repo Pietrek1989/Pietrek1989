@@ -24,3 +24,10 @@ I have experience working with a range of programming languages and technologies
 In my free time, I love tinkering with new technologies and experimenting with different web development techniques. If you're looking for a dedicated and motivated team member who's ready to jump in and start contributing from day one, I'd love to connect!
 
 And Drop me a message or email at techpietrek@gmail.com!
+
+### SOCIALS🌍
+[![LinkedIn](https://skillicons.dev/icons?i=LinkedIn)]([https://skillicons.dev](https://www.linkedin.com/in/piotr-rodzen-a60501158/))
+
+
+
+
