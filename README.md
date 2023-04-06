@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[Screenshot_1](https://user-images.githubusercontent.com/68666992/230426744-6d3a4bc7-7360-468a-8c83-d5cbc9a64800.png)
+
+Hello! I'm Piotr, a junior full stack web developer. With a passion for creating dynamic and engaging web applications, I'm always looking for new challenges and opportunities to improve my skills.
+
+I have experience working with a range of programming languages and technologies, including HTML, CSS, JavaScript, React, Node.js, Express JS, Typescript, MongoDB . I enjoy working on both front-end and back-end development and am comfortable collaborating with cross-functional teams to deliver high-quality results.
+
+In my free time, I love tinkering with new technologies and experimenting with different web development techniques. If you're looking for a dedicated and motivated team member who's ready to jump in and start contributing from day one, I'd love to connect!
+
+And Drop me a message or email at techpietrek@gmail.com!
