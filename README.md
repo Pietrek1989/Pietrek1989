@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there! 👋  I'm Piotr, a junior full stack web developer. With a passion for creating dynamic and engaging web applications, I'm always looking for new challenges and opportunities to improve my skills.
-![banner](https://user-images.githubusercontent.com/68666992/230584032-cef93ade-e848-4cbf-9e4e-18cd05ae8fb8.jpg))
+
+![github banner](https://user-images.githubusercontent.com/68666992/230585093-1e37d896-9172-4f8c-a913-765928b83c30.jpg)
 
 I have experience working with a range of programming languages and technologies as seen below.
 I enjoy working on both front-end and back-end development and am comfortable collaborating with cross-functional teams to deliver high-quality results.
@@ -26,6 +27,7 @@ And Drop me a message or email at techpietrek@gmail.com!
 
 ### SOCIALS 🌍
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/piotr-rodzen-a60501158/)
+
 
 ### SKILLS :computer:
 
