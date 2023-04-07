@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there! 👋  I'm Piotr, a junior full stack web developer. With a passion for creating dynamic and engaging web applications, I'm always looking for new challenges and opportunities to improve my skills.
+
 
 ![github banner](https://user-images.githubusercontent.com/68666992/230585093-1e37d896-9172-4f8c-a913-765928b83c30.jpg)
+### Hi there! 👋  I'm Piotr, a junior full stack web developer. With a passion for creating dynamic and engaging web applications, I'm always looking for new challenges and opportunities to improve my skills.
 
 I have experience working with a range of programming languages and technologies as seen below.
 I enjoy working on both front-end and back-end development and am comfortable collaborating with cross-functional teams to deliver high-quality results.
