@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there! 👋  I'm Piotr, a junior full stack web developer. With a passion for creating dynamic and engaging web applications, I'm always looking for new challenges and opportunities to improve my skills.
-![banner](https://user-images.githubusercontent.com/68666992/230426744-6d3a4bc7-7360-468a-8c83-d5cbc9a64800.png)
+![banner](https://user-images.githubusercontent.com/68666992/230584032-cef93ade-e848-4cbf-9e4e-18cd05ae8fb8.jpg))
 
 I have experience working with a range of programming languages and technologies as seen below.
 I enjoy working on both front-end and back-end development and am comfortable collaborating with cross-functional teams to deliver high-quality results.
