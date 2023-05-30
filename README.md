@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![github banner](https://user-images.githubusercontent.com/68666992/230585093-1e37d896-9172-4f8c-a913-765928b83c30.jpg)
+![github banner project 05-23](https://github.com/Pietrek1989/Pietrek1989/assets/68666992/f13a3ab9-331d-4243-abe1-14ffeb23cfe3)
 ### Hi there! 👋  I'm Piotr, a junior full stack web developer. With a passion for creating dynamic and engaging web applications, I'm always looking for new challenges and opportunities to improve my skills.
 
 I have experience working with a range of programming languages and technologies as seen below.
